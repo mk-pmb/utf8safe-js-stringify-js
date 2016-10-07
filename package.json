@@ -1,6 +1,6 @@
 { "name": "utf8safe-js-stringify",
-  "version": "0.1.2",
-  "description": "Generate JS code that re-creates a JS object as verbatim as possible on the other side of a UTF-8 stream.",
+  "version": "0.1.3",
+  "description": "Generate JS code that re-creates a JS value (object, string, Date, …) as verbatim as possible on the other side of a UTF-8 stream.",
   "keywords": [
     "js-stringify",
     "stringify",
