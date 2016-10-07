@@ -1,6 +1,6 @@
 { "name": "utf8safe-js-stringify",
-  "version": "0.1.3",
-  "description": "Generate JS code that re-creates a JS value (object, string, Date, …) as verbatim as possible on the other side of a UTF-8 stream.",
+  "version": "0.1.4",
+  "description": "Generate JS(ON) code that re-creates a JS value (object, string, Date, …) as verbatim as possible on the other side of a UTF-8 stream.",
   "keywords": [
     "js-stringify",
     "stringify",
@@ -29,7 +29,7 @@
 
   "dependencies": {
     "js-stringify": "^1.0.2",
-    "utf8safe-uhex": "^1.0.0"
+    "utf8safe-uhex": "^1.0.1"
   },
   "devDependencies": {},
 
