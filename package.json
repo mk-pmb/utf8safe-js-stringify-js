@@ -1,0 +1,38 @@
+{ "name": "utf8safe-js-stringify",
+  "version": "0.1.2",
+  "description": "Generate JS code that re-creates a JS object as verbatim as possible on the other side of a UTF-8 stream.",
+  "keywords": [
+    "js-stringify",
+    "stringify",
+    "unicode",
+    "UTF-8"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/utf8safe-js-stringify-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/utf8safe-js-stringify-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/utf8safe-js-stringify-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "utf8safe-js-stringify.js",
+  "scripts": { "test": "nodejs test.js" },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "dependencies": {
+    "js-stringify": "^1.0.2",
+    "utf8safe-uhex": "^1.0.0"
+  },
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
